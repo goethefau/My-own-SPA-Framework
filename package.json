@@ -1,0 +1,19 @@
+{
+  "name": "my-own-spa-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goethefau/My-own-SPA-Framework.git"
+  },
+  "author": "Bunin Michael ( goethefau )",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goethefau/My-own-SPA-Framework/issues"
+  },
+  "homepage": "https://github.com/goethefau/My-own-SPA-Framework#readme"
+}

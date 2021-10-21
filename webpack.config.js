@@ -9,7 +9,7 @@ const isDev = process.env.NODE_ENV === 'development'
 
 const HTMLWebpackPluginConfig = new HtmlWebpackPlugin({
     template: __dirname + '/src/index.html',
-    filename: 'index.html',
+    filename: 'app.html',
     inject: 'body'
 })
 

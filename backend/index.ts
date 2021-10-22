@@ -1,8 +1,6 @@
 import path from "path"
 import express, {Request, Response} from "express"
-
-const os = require("os");
-const AppRouter = require("./routes/app.controller.ts")
+const AppRouter = require("./routes/app.controller")
 
 const app = express();
 
